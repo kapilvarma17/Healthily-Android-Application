@@ -1,6 +1,6 @@
-                                                            Healthily
+                                                         Healthily
 
-![Test Image 1](logo.png)
+                                                ![Test Image 1](logo.png)
 
 Healthily is an application for a community of people who gather around the topic of health.It lets users share health related articles and receive health tips.Community members can post articles that the other members can engage with.
 
